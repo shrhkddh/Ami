@@ -6,7 +6,7 @@
 
 ## Modeling
 
-![ami2_20200804_13_08](https://user-images.githubusercontent.com/63710565/89256649-8fbd3380-d65f-11ea-8ffc-c09783e57fe2.png)
+![ami2_20200804_13_18](https://user-images.githubusercontent.com/63710565/89264240-8f2b9980-d66d-11ea-9aa9-da32b9aa2a74.png)
 
 ## Introduction
 - 2011년 시작된 프랑스의 컨템포러리 패션 브랜드
