@@ -26,8 +26,8 @@ class OrderProduct(models.Model):
         db_table = 'order_products'
 
 class CartWishlist(models.Model):
-    product = models.ForeignKey('product.ProductColor', on_delete=models.SET_NULL, null=True)
-    account = models.ForeignKey('account.Account', on_delete=models.SET_NULL, null=True)
+    product_color = models.ForeignKey('product.ProductColor', on_delete=models.SET_NULL, null=True)
+    account       = models.ForeignKey('account.Account', on_delete=models.SET_NULL, null=True)
 
     class Meta:
         db_table = 'cart_wishlists'
